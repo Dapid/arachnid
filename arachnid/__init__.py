@@ -44,7 +44,7 @@ try:
     __version__ = v
     del v
 except ImportError:
-    __version__ = "UNKNOWN"
+    __version__ = "0.3-dev"
 
 __project__ = "arachnid"
 __author__ = "Robert Langlois"
